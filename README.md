@@ -43,8 +43,8 @@ Prerequisites:
 
 Installation Steps:
 1. Clone the repository:
-   git clone https://github.com/yourusername/officesupplies.git
-   cd officesupplies
+   git clone https://github.com/Tong-Ye-1159668/Lincoln_Office_Supplies-LincolnUni-2024-S2.git
+   cd Lincoln_Office_Supplies-LincolnUni-2024-S2
 
 2. Create and activate a virtual environment:
    # Windows
@@ -55,7 +55,7 @@ Installation Steps:
    python -m venv .venv
    source .venv/bin/activate
 
-3. Install required dependencies:
-   pip install -r requirements.txt
-
-
+3. requirements.
+# Core dependencies
+# Note: tkinter and datetime are part of Python standard library
+# No additional packages are required for basic functionality
