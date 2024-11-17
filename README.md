@@ -56,6 +56,6 @@ Installation Steps:
    source .venv/bin/activate
 
 3. requirements.
-# Core dependencies
-# Note: tkinter and datetime are part of Python standard library
-# No additional packages are required for basic functionality
+Core dependencies
+Note: tkinter and datetime are part of Python standard library
+No additional packages are required for basic functionality
