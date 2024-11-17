@@ -59,3 +59,12 @@ Installation Steps:
 Core dependencies
 Note: tkinter and datetime are part of Python standard library
 No additional packages are required for basic functionality
+
+File Permissions:
+- Ensure read permissions for customer.txt and product.txt
+- Write access needed for payment processing
+- Read permissions required for image files
+
+## Running the Application:
+1. Activate virtual environment
+2. Run: python driver.py
