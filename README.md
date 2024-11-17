@@ -1,5 +1,7 @@
 # Lincoln Office Supplies Order System
 
+#### Submitted on 09 August 2024
+
 This repository contains a Python application developed as part of the COMP 642: Advanced Programming course during Semester 2 of my Master of Applied Computing studies at Lincoln University. The project showcases Object-Oriented Programming (OOP) concepts and implements a comprehensive system for managing customers, orders, and payments for Lincoln Office Supplies.
 
 ## Interface
