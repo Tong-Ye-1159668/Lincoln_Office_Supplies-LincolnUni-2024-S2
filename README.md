@@ -1,7 +1,5 @@
 # Lincoln Office Supplies Order System
 
-## Open driver.py to start it
-
 This repository contains a Python application developed as part of the COMP 642: Advanced Programming course during Semester 2 of my Master of Applied Computing studies at Lincoln University. The project showcases Object-Oriented Programming (OOP) concepts and implements a comprehensive system for managing customers, orders, and payments for Lincoln Office Supplies.
 
 ## Features
@@ -34,3 +32,30 @@ This project emphasizes my ability to:
 - Design and implement maintainable and scalable software systems.
 
 The inclusion of a custom-designed logo adds a professional touch, reflecting my attention to detail and creativity in software development.
+
+---------------------
+
+## Set Up the Environment
+
+Prerequisites:
+- Python 3.x
+- pip (Python package installer)
+
+Installation Steps:
+1. Clone the repository:
+   git clone https://github.com/yourusername/officesupplies.git
+   cd officesupplies
+
+2. Create and activate a virtual environment:
+   # Windows
+   python -m venv .venv
+   .venv\Scripts\activate
+
+   # macOS/Linux
+   python -m venv .venv
+   source .venv/bin/activate
+
+3. Install required dependencies:
+   pip install -r requirements.txt
+
+
